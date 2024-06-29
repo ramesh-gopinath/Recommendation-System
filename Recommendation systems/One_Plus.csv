@@ -1,0 +1,41 @@
+﻿Srl #,Product,Purchase date,Bill no.,Customer,Rating
+1,One plus 7,01-05-2022,1,Suresh,8.3
+2,One plus 7,01-04-2022,2,Ramesh,7.5
+3,One plus 7,01-03-2022,3,Priya,7.9
+4,One plus 5,14-02-2022,4,Pooja,8.5
+5,One plus 5,12-01-2022,5,Twinkle,6.5
+6,One plus 7,16-03-2022,6,Ranjani,8.3
+7,One plus 7,01-03-2022,7,Himayat,7.5
+8,One plus 7,27-01-2022,8,Gokul,7.9
+9,One plus 7,31-03-2022,9,Ajay,8.5
+10,One plus 7,16-03-2022,10,Pandurang,6.5
+11,One plus 7,11-02-2022,11,Suresh,5.5
+12,One plus 5,15-04-2022,12,Ramesh,4.8
+13,One plus 5,31-03-2022,13,Priya,9.2
+14,One plus 5,26-02-2022,14,Pooja,10
+15,One plus 5,30-04-2022,15,Twinkle,5
+16,One plus 5,15-04-2022,16,Ranjani,6
+17,One plus 5,13-03-2022,17,Himayat,7
+18,One plus 8,15-05-2022,18,Gokul,7.3
+19,One plus 8,30-04-2022,19,Ajay,8.5
+20,One plus 8,28-03-2022,20,Pandurang,4.8
+21,One plus 8,30-05-2022,21,Kohli,6
+22,One plus 8,15-05-2022,22,Bumrah,6
+23,One plus Nerd,12-04-2022,23,Suresh,7.9
+24,One plus Nerd,14-06-2022,24,Ramesh,8.5
+25,One plus Nerd,30-05-2022,25,Priya,6.5
+26,One plus Nerd,27-04-2022,26,Pooja,5.5
+27,One plus Nerd,29-06-2022,27,Twinkle,4.8
+28,One plus Nerd,14-06-2022,28,Ranjani,9.2
+29,One plus Nerd,12-05-2022,29,Himayat,10
+30,One plus Nerd,14-07-2022,30,Gokul,5
+31,One plus Nerd,29-06-2022,31,Ajay,6
+32,One plus Nerd,27-05-2022,32,Pandurang,7
+33,One Plus 7 Pro,01-03-2022,33,Kohli,7.3
+34,One Plus 7 Pro,16-03-2022,34,Bumrah,8.5
+35,One Plus 7 Pro,31-03-2022,35,Suresh,4.8
+36,One Plus 7 Pro,15-04-2022,36,Ramesh,6
+37,One Plus 7 Pro,30-04-2022,37,Priya,6
+38,One Plus 7 Pro,15-05-2022,38,Pooja,7.5
+39,One Plus 7 Pro,30-05-2022,39,Twinkle,8.2
+40,One Plus 7 Pro,14-06-2022,40,Ranjani,6.5
